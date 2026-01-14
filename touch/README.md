@@ -10,11 +10,9 @@ XPT2046_Touchscreen by Paul Stoffregen
 ## SPI Controllers on the ESP32
 The ESP32 has 4 SPI controllers, but only 2 are available for general use:
 
-# All 4 SPI Controllers:
+- SPI0 (SPI1) - Reserved for flash memory (can't use)
+- SPI1 - Also reserved for flash memory (can't use)
+- HSPI (SPI2) - Available for your projects
+- VSPI (SPI3) - Available for your projects
 
-SPI0 (SPI1) - Reserved for flash memory (can't use)
-SPI1 - Also reserved for flash memory (can't use)
-HSPI (SPI2) - ✅ Available for your projects
-VSPI (SPI3) - ✅ Available for your projects
-
-Our Touch Example use VSPI 
+- Our Touch Example use VSPI 
