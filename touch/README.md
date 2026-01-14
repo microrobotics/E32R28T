@@ -5,3 +5,6 @@ The XPT2046 is a low-power resistive touch controller IC commonly used with TFT 
 
 XPT2046_Touchscreen by Paul Stoffregen
 
+<img width="262" height="320" alt="image" src="https://github.com/user-attachments/assets/d533dfbc-8aa5-4cf8-b7bf-8cfe122f2afe" />
+
+
