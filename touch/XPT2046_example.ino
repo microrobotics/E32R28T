@@ -1,3 +1,6 @@
+//This example demonstrates XPT2046 touch input functionality and displays the IRQ status. 
+//Touch calibration is not implemented
+
 #include <TFT_eSPI.h>
 #include <XPT2046_Touchscreen.h>
 
