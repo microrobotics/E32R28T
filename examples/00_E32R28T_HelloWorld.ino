@@ -1,7 +1,10 @@
 // This is a basic Hello World Example 
 // Display E32R28T 2.8" Passice Touch Display 
+// Display Driver ILI9341
 // Filename 00_E32R28T_HelloWorld.ino
-
+// This program uses the User_Setup.h include file to define all hardware pin mappings 
+// and display configuration parameters required by the TFT_eSPI library.
+// Special Note: Rememeber to switch the backlight on !
 
 #include <TFT_eSPI.h>
 
