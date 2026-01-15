@@ -1,3 +1,4 @@
 ## Example of Screen Output 
 
-<img width="346" height="260" alt="image" src="https://github.com/user-attachments/assets/e8ca4aac-ac42-4734-a4ca-221bb65c71d4" />
+<img width="420" height="315" alt="image" src="https://github.com/user-attachments/assets/ae2759f4-877f-403d-8636-c072fff02807" />
+
