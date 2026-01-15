@@ -5,6 +5,7 @@
 // The E32R28T display does not use standard SPI pin assignments.
 // The pins can either be updated in the TFT_eSPI library User_Setup.h or 
 // defined here to override the User_Setup.h settings.
+// See the Pin_Assign_Quicref_v1.0a.pdf for all Pin definitions
 
 #define TFT_MISO  12
 #define TFT_MOSI  13
